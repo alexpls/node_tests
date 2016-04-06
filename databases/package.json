@@ -4,6 +4,8 @@
   "description": "Tools for creating an ebook database",
   "author": "Alex Plescan",
   "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "file": "^0.2.2",
     "request": "^2.70.0"
   }
 }
